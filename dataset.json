@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for West Covina, California with a population of over 109k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in West Covina, California, US",
-  "export_job_id": "1ece9a9a-4b10-45eb-bb34-b26bfe8143e5",
+  "export_job_id": "e87e059a-7623-4c4d-aac9-4582164977ff",
   "github_org": "Beamstation-Datasets",
   "id_short": 745850,
   "location_name": "West Covina",
@@ -18,5 +18,5 @@
   "sample_sha256": "3b81f2f917f04067c828cff84f15e09fc6848ba8888a31abb4cba5d30865ea1c",
   "sample_size_bytes": 90251,
   "total_records": 237,
-  "updated_at": "2026-04-07T11:25:55.380424+00:00"
+  "updated_at": "2026-04-14T11:20:25.463828+00:00"
 }

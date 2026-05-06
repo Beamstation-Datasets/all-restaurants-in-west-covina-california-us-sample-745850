@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eee7cc60-1869-492b-8e59-9221fc7982b1",
+  "export_job_id": "ea5cb093-98a9-489b-b7cc-85014b87bfeb",
   "id_short": 745850,
-  "published_at": "2026-04-28T19:56:52Z",
+  "published_at": "2026-05-06T07:18:01Z",
   "repo_name": "all-restaurants-in-west-covina-california-us-sample-745850",
   "sample_asset_name": "beamstation_745850_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/745850/beamstation_745850_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "930cc8ee0c4e6b37a891d051396d80fd84b4d1bd060bd324e80f784def95dd9f",
-  "sample_size_bytes": 75636,
-  "total_records": 188
+  "sample_records": 25,
+  "sample_sha256": "c21e7c013a138e8bd5fefafaa77502d0d5b90dbe6bee959fd6e19e2ded0cba8d",
+  "sample_size_bytes": 116635,
+  "total_records": 250
 }
